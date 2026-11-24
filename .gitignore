@@ -1,0 +1,5 @@
+monjar.db
+monjar.db-wal
+monjar.db-shm
+node_modules/
+.DS_Store
